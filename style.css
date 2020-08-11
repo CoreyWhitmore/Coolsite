@@ -1,0 +1,44 @@
+header {
+    color: white;
+    background-color: navy;
+    padding-top: 1em;
+    padding-bottom: .5em;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    display: flex;
+}
+
+.center{
+    padding: 2% 5% 5% 20%;
+    width: 180%;
+}
+
+.sidebar{
+    padding: 10% 5% 5% 0%;
+    width: 60%
+}
+
+footer {
+    background-color: navy;
+    padding:3em;
+}
+
+p {
+    margin: 0;
+    padding: 10px;
+}
+
+.top{
+    border-top: 20px solid rgb(191, 191, 255);
+    text-align: center;
+}
+
+#article{
+    margin-bottom: 5px;
+}
