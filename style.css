@@ -8,6 +8,7 @@ header {
 
 body {
     margin: 0px;
+    font-size: 12pt;
 }
 
 main {
@@ -26,7 +27,11 @@ main {
 
 footer {
     background-color: navy;
-    padding:3em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
 }
 
 p {
@@ -41,4 +46,8 @@ p {
 
 #article{
     margin-bottom: 5px;
+}
+
+.picture{
+    width: 100%
 }
